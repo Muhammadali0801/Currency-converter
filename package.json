@@ -1,6 +1,6 @@
 {
   "name": "mshk5-currency-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a cli based currency converter",
   "main": "index.js",
   "type": "module",
